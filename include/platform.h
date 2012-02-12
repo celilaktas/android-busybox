@@ -453,6 +453,7 @@ typedef unsigned smalluint;
 # undef HAVE_STRVERSCMP
 # undef HAVE_UNLOCKED_LINE_OPS
 # undef HAVE_NET_ETHERNET_H
+# include "android.h"
 #endif
 
 /*
